@@ -1,0 +1,25 @@
+
+.title{
+    text-align: center;
+}
+
+p,h2,h3,h4{
+    border: 1px solid red;
+}
+
+span ,a ,img{
+    border: 1px solid blue;
+}
+
+#sentence{
+    background: dodgerblue;
+    color: #ffffff;
+
+}
+
+#sentence span{
+    border: none;
+    color: black;
+    background: yellow;
+    font-size: 50px;
+}

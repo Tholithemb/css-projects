@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+
+div{
+    width: 600px;
+    height: 600px;
+    border: 1px solid grey;
+    margin: 50px auto;
+    /* background-color: red; */
+    /* background-image: url(img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+     */
+    
+    background: url(kaizer.png) center/cover no-repeat green ;
+}
+
+/* body{
+    background-image: url(img.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-attachment: fixed;
+} */
